@@ -34,7 +34,7 @@ $ netstat -na | grep 8080
 ## Jenkins 서버 접속 & 초기 설정
 
 * 이제 http://${your-ec2-public-dns}:8080 으로 접속하면 아래와 같은 화면이 뜰 것이다.
-![Alt text](/img.jpg)
+![Alt text](/JenkinsInitPage.png)
 
 * 초기 접속 비밀번호는 /var/lib/jenkins/secrets/initialAdminPassword 여기에 있다는 말이다.
 ~~~
