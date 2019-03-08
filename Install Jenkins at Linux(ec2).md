@@ -43,7 +43,7 @@ $ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 실행 후 나온 스트링을 복붙한다
 
 * 다음화면에서 플러그인을 필요한 것만 설치할지, 디폴트로 설치할지 선택한다. 일단은 suggested plugins 을 다 설치하도록 한다.
-![Alt text](/img.jpg)
+![Alt text](/JenkinsInitInstall.png)
 
 * 추가로, 혹시 jenkins 서버에 git 이 설치되어있지 않다면 아래 명령어로 git 은 설치되어있는지 확인해주면 나중에 편하다.
 ~~~ 
